@@ -1,0 +1,10 @@
+{
+  "name": "express-controller",
+  "version": "0.0.1",
+  "author": "Bruno Windels <bruno.windels@nokia.com>",
+  "description": "Library to easily work with controllers within express",
+  "main": "./lib/index.js",
+  "dependencies" : {
+      "underscore"   :  "1.x"
+  }
+}
